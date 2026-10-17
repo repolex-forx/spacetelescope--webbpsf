@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/webbpsf/commit/95b37d2263eb60e8d6967239e166f6932724d5fc",
       "git:hexsha": "95b37d2263eb60e8d6967239e166f6932724d5fc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/webbpsf/commit/90fe97276aca52d63ee0451ecce754b67852f5bb",

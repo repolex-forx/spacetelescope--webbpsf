@@ -1,0 +1,7 @@
+[2026-10-17T04:17:47Z] === AST ITERATION 1 START | repo=spacetelescope/webbpsf sha=95b37d22 ===
+[2026-10-17T04:17:47Z] [iter=1] PHASE START: ast repo=spacetelescope/webbpsf sha=95b37d22
+[2026-10-17T04:17:47Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T04:19:35Z] [iter=1] AST chunks built count=1 triples=910570
+[2026-10-17T04:19:35Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/95b37d2263eb60e8d6967239e166f6932724d5fc/.complete
+[2026-10-17T04:19:35Z] [iter=1] PHASE END: ast elapsed_s=108 elapsed_min=1.8
+[2026-10-17T04:19:35Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
